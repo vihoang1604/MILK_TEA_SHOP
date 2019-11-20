@@ -1,0 +1,11 @@
+hr {
+  margin-top: 10px;
+}
+.imaga-manage-order {
+  height: 100px;
+  width: 100px;
+}
+
+.display-manage-order {
+  display: none;
+}

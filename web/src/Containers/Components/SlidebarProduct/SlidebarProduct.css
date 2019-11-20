@@ -1,0 +1,26 @@
+.departments {
+  width: 100%;
+  background: #ffffff;
+  padding-top: 99px;
+}
+.dept_row {
+  margin-top: 50px;
+}
+.owl-carousel .owl-stage-outer {
+  overflow: visible;
+}
+.imageSlide {
+  height: 400px;
+}
+.dot {
+  display: none;
+}
+
+button {
+  display: none;
+}
+
+.button_slide {
+  margin-top: 10px;
+  width: 200px;
+}

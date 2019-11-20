@@ -1,0 +1,9 @@
+export const FETCH_USERS = "FETCH_USERS";
+export const FETCH_USERS_SUCCESSED = "FETCH_USERS_SUCCESSED";
+export const FETCH_USERS_FAILED = "FETCH_USERS_FAILED";
+
+export const ADD_USER = "ADD_USER";
+export const UPDATE_USER = "UPDATE_USER";
+export const DELETE_USER = "DELETE_USER";
+
+export const SEARCH_USER = "SEARCH_USER";

@@ -1,0 +1,23 @@
+.vorch_input {
+  margin-right: 10px;
+}
+.imaga-order {
+  height: 100px;
+  width: 100px;
+}
+.order-button {
+  float: right;
+  margin-right: 10px;
+}
+.dislay-address {
+  display: none;
+}
+
+.order-body {
+  width: 100%;
+  background: #ffffff;
+  padding-top: 300px;
+  padding-bottom: 200px;
+  z-index: 2;
+  margin-top: -80px;
+}

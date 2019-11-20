@@ -1,0 +1,15 @@
+.departments {
+  width: 100%;
+  background: #ffffff;
+  padding-top: 300px;
+}
+.imagacart {
+  height: 100px;
+  width: 100px;
+}
+.text-center {
+  text-align: center;
+}
+.display-manage-cart {
+  display: none;
+}

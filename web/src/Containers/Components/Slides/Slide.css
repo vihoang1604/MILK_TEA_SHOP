@@ -1,0 +1,10 @@
+.home {
+  width: 100%;
+  height: 874px;
+}
+.home_container {
+  position: absolute;
+  top: 19%;
+  left: 0;
+  width: 100%;
+}

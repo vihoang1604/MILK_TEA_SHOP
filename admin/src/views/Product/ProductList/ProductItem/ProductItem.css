@@ -1,0 +1,46 @@
+.status:hover {
+    cursor: pointer;
+}
+
+tr input[type="text"] {
+    width: 100%;
+    padding: 5px 10px;
+}
+
+input[type="checkbox"]:hover {
+    cursor: pointer;
+}
+
+.border-none {
+    border: none;
+}
+
+.editing {
+    border: 1px solid #f82541;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+td input {
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+td img {
+    width: 55px;
+    margin: 0 auto;
+    height: 55px;
+}
+
+.btn-primary input {
+    display: none;
+}
+
+tr th {
+    text-align: center;
+}
